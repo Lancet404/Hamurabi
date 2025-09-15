@@ -1,7 +1,3 @@
-//
-// Created by Андрей Подвысоцкий on 10.09.2025.
-//
-
 #include "hamurabbi.h"
 
 #include <iostream>
